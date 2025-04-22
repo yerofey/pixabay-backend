@@ -1,5 +1,11 @@
 # pixabay-backend
 
+## Setup
+
+To run the project, you need to have docker installed.
+
+To init the `.env` file, you can use the `.env.example` file as a template.
+
 To install dependencies:
 
 ```bash
